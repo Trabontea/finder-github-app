@@ -24,3 +24,5 @@ const footerYear = new Date().getFullYear()
 }
 
 export default Footer
+
+
