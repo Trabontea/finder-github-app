@@ -31,12 +31,9 @@ const User = () => {
     hireable,
   } = user
 
-
-
   if(loading) {
     return <Spinner />
   }
-
 
   return (
     <>
